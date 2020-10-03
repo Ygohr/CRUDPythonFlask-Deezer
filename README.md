@@ -11,6 +11,8 @@ To run the project you'll need to have installed:
  - Flask-SQLAlchemy==2.4.4
  - SQLAlchemy==1.3.19
  - gunicorn==19.9.0**
+ - PyMySQL
+ - request
  
 ## -> Host - Heroku App
 The API can be accessed by **Heroku APP** -> https://desafio-editora-globo-ygohr.herokuapp.com/
