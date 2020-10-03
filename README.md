@@ -2,20 +2,20 @@
 A **Python Flask** CRUD API for **Artists, Album and Track** datas. It also consumes **Deezer API** to populate database. 
 Developed by **Ygohr Medeiros** for technical challenge of **Editora Globo**.
  
-## Technologies
+## -> Technologies
 This project uses **Python with Flask** for the backend, and **MySQL** for the database storage.
 
-## Dependecies:
+## -> Dependecies:
 To run the project you'll need to have installed:
  **.Flask==1.1.2
  .Flask-SQLAlchemy==2.4.4
  .SQLAlchemy==1.3.19
  .gunicorn==19.9.0**
  
-## Host - Heroku App
+## -> Host - Heroku App
 The API can be accessed by **Heroku APP** -> https://desafio-editora-globo-ygohr.herokuapp.com/
 
-## How to
+## -> How to
 The API have some routes that can receive parameters by **URL or by JSON**, this last one to create and update data.
 
 ## -> Routes / Parameters:
