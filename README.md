@@ -18,7 +18,7 @@ The API can be accessed by **Heroku APP** -> https://desafio-editora-globo-ygohr
 ## -> How to
 The API have some routes that can receive parameters by **URL or by JSON**, this last one to create and update data.
 
-## -> Routes / Parameters:
+### Routes / Parameters:
 /consultaArtistaDeezer -> Receive an id to consult data from Deezer API and insert to database. (Example: /consultaArtistaDeezer?id=14)
 
 /consultaAlbumDeezer -> Receive an id to consult data from Deezer API and insert to database. (Example: /consultaAlbumDeezer?id=302127)
