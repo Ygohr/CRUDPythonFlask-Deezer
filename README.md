@@ -1,4 +1,4 @@
-# desafio-globo-mysql
+# Technical Challenge - Editora Globo
 A **Python Flask** CRUD API for **Artists, Album and Track** datas. It also consumes **Deezer API** to populate database. 
  .Developed by **Ygohr Medeiros** for technical challenge of **Editora Globo**.
  
