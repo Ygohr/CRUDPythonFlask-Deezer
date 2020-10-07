@@ -15,6 +15,7 @@ To run the project you'll need to have installed:
  
 ## -> Host - Heroku App
 The API can be accessed by **Heroku APP** -> https://desafio-editora-globo-ygohr.herokuapp.com/
+Note: The **first** access in the link above can take longer to load.
 
 ## -> How to
 The API have some routes that can receive parameters by **URL or by JSON**, this last one to create and update data.
