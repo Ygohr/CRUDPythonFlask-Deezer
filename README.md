@@ -1,6 +1,5 @@
-# Technical Challenge - Editora Globo
+# CRUD API Python with Flask + Deezer API
 A **Python Flask** CRUD API for **Artists, Albuns and Tracks** datas. It also consumes **Deezer API** to populate database. 
-Developed by **Ygohr Medeiros** for technical challenge of **Editora Globo**.
  
 ## -> Technologies
 This project uses **Python with Flask** for the backend, and **MySQL** for the database storage.
